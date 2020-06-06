@@ -17,4 +17,5 @@ lifestyle.
 4)Compact Functions   <br/>
 5)Extension Functions   <br/>
 
-![main_screen](https://user-images.githubusercontent.com/65643331/83948268-a5c09a80-a84e-11ea-9697-7591cb35c36a.jpeg)
+## Preview
+![20200606_212041](https://user-images.githubusercontent.com/65643331/83948593-d9042900-a850-11ea-8c65-fbfbc58ef343.gif)
