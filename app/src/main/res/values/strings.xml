@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StayFit</string>
+    <string name="First_text">WHAT YOU DO TODAY CAN IMPROVE</string>
+    <string name="Firsttext">WHAT YOU DO TODAY CAN IMPROVE ALL OF YOUR TOMMOROWS
+                                                                -Ralph Marston</string>
+    <string name="set_up_your_work_plan">Next</string>
+    <string name="chest_workout">Chest Workout</string>
+    <string name="tricep_workout">Tricep Workout</string>
+    <string name="bicep_workout">Bicep Workout</string>
+    <string name="leg_workout">Leg Workout</string>
+    <string name="abs_workout">Abs Workout</string>
+    <string name="done">DONE</string>
+</resources>
