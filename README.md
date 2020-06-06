@@ -12,10 +12,10 @@ lifestyle.
 
 ## Kotlin Concepts Used 
 1)Kotlin Filters  <br/>
-2)Lambda functions  <br/>
+2)Lambdas  <br/>
 3)Null Safety     <br/>
 4)Compact Functions   <br/>
-5)Extension Functions   <br/>
+5)Extensions   <br/>
 
 ## Preview
 ![20200606212041](https://user-images.githubusercontent.com/65643331/83948593-d9042900-a850-11ea-8c65-fbfbc58ef343.gif)
