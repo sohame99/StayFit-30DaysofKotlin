@@ -16,3 +16,5 @@ lifestyle.
 3)Null Safety     <br/>
 4)Compact Functions   <br/>
 5)Extension Functions   <br/>
+
+![main_screen](https://user-images.githubusercontent.com/65643331/83948268-a5c09a80-a84e-11ea-9697-7591cb35c36a.jpeg)
