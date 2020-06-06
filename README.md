@@ -1,4 +1,4 @@
-# StayFit-Application
+# StayFit Application
 
 This is a one-stop app for all the fitness freaks with multiple features.There are different workouts for each muscle group.One can also 
 calculate BMI and get to know their weight category.According to activity level and BMI the user gets tips which he can implement in his 
